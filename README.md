@@ -1,6 +1,5 @@
-# Documentação do Projeto Eclipse Hotel System
+Eclipse Hotel System
 
-## 1. Introdução
 O Eclipse Hotel System é uma API desenvolvida em Java utilizando o framework Spring Boot. O sistema foi criado para gerenciar clientes, quartos e reservas de um hotel, oferecendo operações básicas de CRUD (Create, Read, Update, Delete). Além disso, a API inclui funcionalidades extras que vão além do CRUD, trazendo mais eficiência para a gestão hoteleira.
 A estrutura do projeto foi pensada para ser clara, modular e de fácil manutenção, seguindo as boas práticas do Spring Boot e do desenvolvimento de APIs.
 
